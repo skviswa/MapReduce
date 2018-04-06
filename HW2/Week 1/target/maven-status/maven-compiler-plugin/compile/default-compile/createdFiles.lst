@@ -1,0 +1,10 @@
+meantempinmapcomb/MeanTempMapper.class
+meantempcombiner/MeanTempReducer.class
+meantempinmapcomb/MeanTempReducer.class
+meantemp/MeanTempMapper.class
+meantempcombiner/MeanTempCombiner.class
+meantempcombiner/MeanTempMapper.class
+meantemp/MeanTemp.class
+meantempinmapcomb/MeanTempInMapComb.class
+meantemp/MeanTempReducer.class
+meantempcombiner/MeanTemp2.class

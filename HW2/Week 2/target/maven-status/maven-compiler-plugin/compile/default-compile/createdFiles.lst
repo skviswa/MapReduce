@@ -1,0 +1,6 @@
+secsort/MeanTempMapper.class
+secsort/MeanTempWithYr$KeyComparator.class
+secsort/MeanTempWithYr.class
+secsort/MeanTempWithYr$YearPartitioner.class
+secsort/MeanTempWithYr$GroupComparator.class
+secsort/MeanTempReducer.class
